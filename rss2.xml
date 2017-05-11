@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ending The Alphabet</title>
+    <link>http://endingthealphabet.xyz/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 11 May 2017 04:41:10 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Challenge Day 1 - Hands</title>
+      <link>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/</link>
+      <guid>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/</guid>
+      <pubDate>Thu, 11 May 2017 04:41:10 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;img src=&quot;/images/studies/2017_may_10_hand.png&quot; alt=&quot;Hands&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Studies from &lt;a href=&quot;https://www.amazon.com/Figure-Drawing-Invention
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><img src="/images/studies/2017_may_10_hand.png" alt="Hands"></p>
+<p>Studies from <a href="https://www.amazon.com/Figure-Drawing-Invention-Michael-Hampton/dp/0615272819/ref=sr_1_1?ie=UTF8&amp;qid=1494476930&amp;sr=8-1&amp;keywords=figure+drawing+design+and+invention" target="_blank" rel="external">Figure Drawing Design &amp; Invention</a>. I was also using some linework tips from an excellent video by <a href="https://www.youtube.com/watch?v=x0zl5NnEAyU" target="_blank" rel="external">Scott<br>Robertson</a>. It boils down to utilizing <a href="https://en.wikipedia.org/wiki/Aerial_perspective" target="_blank" rel="external">Aerial Perspective</a> &amp; “T” overlaps.</p>
+]]></content:encoded>
+      
+      <comments>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
