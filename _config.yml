@@ -7,8 +7,8 @@ title: Ending The Alphabet
 subtitle:
 description:
 author: Paul Von Zimmerman
-language:
-timezone:
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -50,8 +50,7 @@ tag_map:
 
 # feed
 feed:
-  type: atom
-  path: atom.xml
+  type: rss2
   limit: 20
 
 # Date / Time format

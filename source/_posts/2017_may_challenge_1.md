@@ -1,5 +1,8 @@
 ---
 title: Challenge Day 1 - Hands
+categories: 
+- Art
+- May Challenge
 ---
 
 ![Hands](/images/studies/2017_may_10_hand.png)
