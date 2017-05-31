@@ -8,42 +8,14 @@
         <atom:link href="/categories/Art/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Tue, 16 May 2017 03:57:54 GMT</pubDate>
+        <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
         <generator>http://hexo.io/</generator>
         
         <item>
-            <title>Challenge Day 3 - Color Planes of The Face</title>
-            <link>http://endingthealphabet.xyz/2017/05/15/2017_may_challenge_3/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/15/2017_may_challenge_3/</guid>
-            <pubDate>Tue, 16 May 2017 03:57:54 GMT</pubDate>
-            <description>
-                
-                &lt;h2 id=&quot;Hue-Boomerang&quot;&gt;&lt;a href=&quot;#Hue-Boomerang&quot; class=&quot;headerlink&quot; title=&quot;Hue Boomerang&quot;&gt;&lt;/a&gt;Hue Boomerang&lt;/h2&gt;&lt;p&gt;Watched a video recommende
-                
-            </description>
-            
-            <comments>http://endingthealphabet.xyz/2017/05/15/2017_may_challenge_3/#disqus_thread</comments>
-        </item>
-        
-        <item>
-            <title>Challenge Day 2 - Rigorous Study</title>
-            <link>http://endingthealphabet.xyz/2017/05/11/2017_may_challenge_2/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/11/2017_may_challenge_2/</guid>
-            <pubDate>Thu, 11 May 2017 20:23:17 GMT</pubDate>
-            <description>
-                
-                &lt;p&gt;&lt;a href=&quot;https://youtu.be/INHeI6Lwtes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scott Robertson’s&lt;/a&gt; video on improving draftsmanship &amp;amp; propor
-                
-            </description>
-            
-            <comments>http://endingthealphabet.xyz/2017/05/11/2017_may_challenge_2/#disqus_thread</comments>
-        </item>
-        
-        <item>
             <title>Challenge Day 1 - Hands</title>
-            <link>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/</guid>
-            <pubDate>Thu, 11 May 2017 04:53:02 GMT</pubDate>
+            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</link>
+            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</guid>
+            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
             <description>
                 
                 &lt;p&gt;&lt;img src=&quot;/images/studies/2017_may_10_hand.png&quot; alt=&quot;Hands&quot;&gt;&lt;/p&gt;
@@ -51,7 +23,49 @@
                 
             </description>
             
-            <comments>http://endingthealphabet.xyz/2017/05/10/2017_may_challenge_1/#disqus_thread</comments>
+            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>Challenge Day 2 - Rigorous Study</title>
+            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</link>
+            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</guid>
+            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+            <description>
+                
+                &lt;p&gt;&lt;a href=&quot;https://youtu.be/INHeI6Lwtes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scott Robertson’s&lt;/a&gt; video on improving draftsmanship &amp;amp; propor
+                
+            </description>
+            
+            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>Challenge Day 3 - Color Planes of The Face</title>
+            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</link>
+            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</guid>
+            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+            <description>
+                
+                &lt;h2 id=&quot;Hue-Boomerang&quot;&gt;&lt;a href=&quot;#Hue-Boomerang&quot; class=&quot;headerlink&quot; title=&quot;Hue Boomerang&quot;&gt;&lt;/a&gt;Hue Boomerang&lt;/h2&gt;&lt;p&gt;Watched a video recommende
+                
+            </description>
+            
+            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>Challenge Day 4 - Sculpting in Blender</title>
+            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</link>
+            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</guid>
+            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+            <description>
+                
+                &lt;h2 id=&quot;Blender-Sculpting&quot;&gt;&lt;a href=&quot;#Blender-Sculpting&quot; class=&quot;headerlink&quot; title=&quot;Blender Sculpting&quot;&gt;&lt;/a&gt;Blender Sculpting&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
+                
+            </description>
+            
+            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/#disqus_thread</comments>
         </item>
         
     </channel>
