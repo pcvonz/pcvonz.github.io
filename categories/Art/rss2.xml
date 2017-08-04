@@ -4,31 +4,17 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title></title>
-        <link>http://endingthealphabet.xyz/</link>
+        <link>pcvonz.github.io/</link>
         <atom:link href="/categories/Art/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Fri, 04 Aug 2017 17:20:59 GMT</pubDate>
+        <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
         <generator>http://hexo.io/</generator>
         
         <item>
-            <title>Challenge Day 1 - Is this thing still on?</title>
-            <link>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/</link>
-            <guid>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/</guid>
-            <pubDate>Fri, 04 Aug 2017 17:20:59 GMT</pubDate>
-            <description>
-                
-                &lt;h2 id=&quot;WebGL-Programming&quot;&gt;&lt;a href=&quot;#WebGL-Programming&quot; class=&quot;headerlink&quot; title=&quot;WebGL Programming&quot;&gt;&lt;/a&gt;WebGL Programming&lt;/h2&gt;&lt;p&gt;I’ve decid
-                
-            </description>
-            
-            <comments>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/#disqus_thread</comments>
-        </item>
-        
-        <item>
             <title>Challenge Day 1 - Hands</title>
-            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</guid>
+            <link>pcvonz.github.io/2017/05/30/2017_may_challenge_1/</link>
+            <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_1/</guid>
             <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
             <description>
                 
@@ -37,13 +23,13 @@
                 
             </description>
             
-            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/#disqus_thread</comments>
+            <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_1/#disqus_thread</comments>
         </item>
         
         <item>
             <title>Challenge Day 2 - Rigorous Study</title>
-            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</guid>
+            <link>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</link>
+            <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</guid>
             <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
             <description>
                 
@@ -51,27 +37,13 @@
                 
             </description>
             
-            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
-        </item>
-        
-        <item>
-            <title>Challenge Day 4 - Sculpting in Blender</title>
-            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</guid>
-            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
-            <description>
-                
-                &lt;h2 id=&quot;Blender-Sculpting&quot;&gt;&lt;a href=&quot;#Blender-Sculpting&quot; class=&quot;headerlink&quot; title=&quot;Blender Sculpting&quot;&gt;&lt;/a&gt;Blender Sculpting&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
-                
-            </description>
-            
-            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/#disqus_thread</comments>
+            <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
         </item>
         
         <item>
             <title>Challenge Day 3 - Color Planes of The Face</title>
-            <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</link>
-            <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</guid>
+            <link>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</link>
+            <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</guid>
             <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
             <description>
                 
@@ -79,7 +51,21 @@
                 
             </description>
             
-            <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+            <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>Challenge Day 4 - Sculpting in Blender</title>
+            <link>pcvonz.github.io/2017/05/30/2017_may_challenge_4/</link>
+            <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_4/</guid>
+            <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+            <description>
+                
+                &lt;h2 id=&quot;Blender-Sculpting&quot;&gt;&lt;a href=&quot;#Blender-Sculpting&quot; class=&quot;headerlink&quot; title=&quot;Blender Sculpting&quot;&gt;&lt;/a&gt;Blender Sculpting&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
+                
+            </description>
+            
+            <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_4/#disqus_thread</comments>
         </item>
         
     </channel>

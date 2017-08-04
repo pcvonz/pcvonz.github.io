@@ -4,34 +4,48 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ending The Alphabet</title>
-    <link>http://endingthealphabet.xyz/</link>
+    <link>pcvonz.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 04 Aug 2017 17:20:59 GMT</pubDate>
+    <pubDate>Fri, 04 Aug 2017 20:07:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Challenge Day 1 - Is this thing still on?</title>
-      <link>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/</link>
-      <guid>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/</guid>
-      <pubDate>Fri, 04 Aug 2017 17:20:59 GMT</pubDate>
+      <title>Day 1</title>
+      <link>pcvonz.github.io/2017/08/04/Day-1/</link>
+      <guid>pcvonz.github.io/2017/08/04/Day-1/</guid>
+      <pubDate>Fri, 04 Aug 2017 17:57:41 GMT</pubDate>
       <description>
       
-        &lt;h2 id=&quot;WebGL-Programming&quot;&gt;&lt;a href=&quot;#WebGL-Programming&quot; class=&quot;headerlink&quot; title=&quot;WebGL Programming&quot;&gt;&lt;/a&gt;WebGL Programming&lt;/h2&gt;&lt;p&gt;I’ve decid
+        &lt;h2 id=&quot;Hello-WebGL&quot;&gt;&lt;a href=&quot;#Hello-WebGL&quot; class=&quot;headerlink&quot; title=&quot;Hello WebGL&quot;&gt;&lt;/a&gt;Hello WebGL&lt;/h2&gt;&lt;canvas width=&quot;500&quot; height=&quot;500&quot;&gt; &lt;/c
       
       </description>
       
-      <content:encoded><![CDATA[<h2 id="WebGL-Programming"><a href="#WebGL-Programming" class="headerlink" title="WebGL Programming"></a>WebGL Programming</h2><p>I’ve decided to learn webgl as an introduction into graphics programming.</p>
+      <content:encoded><![CDATA[<h2 id="Hello-WebGL"><a href="#Hello-WebGL" class="headerlink" title="Hello WebGL"></a>Hello WebGL</h2><canvas width="500" height="500"> </canvas>
+
+<h3 id="Buffers"><a href="#Buffers" class="headerlink" title="Buffers"></a>Buffers</h3><p>Arrays of Binary data uploaded to the GPU. Can include the following: </p>
+<ul>
+<li>Positions</li>
+<li>Normals</li>
+<li>Texture Coordinates</li>
+<li>Vertex Colors</li>
+<li>Anythin you want really</li>
+</ul>
+<h3 id="Attributes"><a href="#Attributes" class="headerlink" title="Attributes"></a>Attributes</h3><p>Used to pull data out of buffers and use them in your vertex shaders. </p>
+<h3 id="Uniforms"><a href="#Uniforms" class="headerlink" title="Uniforms"></a>Uniforms</h3><p>Global variables set before executing the shader</p>
+<h3 id="Textures"><a href="#Textures" class="headerlink" title="Textures"></a>Textures</h3><p>Array of data you can randomly access via your shader prorgam. Usually image data.</p>
+<h3 id="Varyings"><a href="#Varyings" class="headerlink" title="Varyings"></a>Varyings</h3><p>Way to pass vertex data to a fragment shader. </p>
+<script src="/js/day_1.js"></script>
 ]]></content:encoded>
       
-      <comments>http://endingthealphabet.xyz/2017/08/04/2017_august_challenge_1/#disqus_thread</comments>
+      <comments>pcvonz.github.io/2017/08/04/Day-1/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Challenge Day 1 - Hands</title>
-      <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</link>
-      <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/</guid>
+      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_1/</link>
+      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_1/</guid>
       <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
       <description>
       
@@ -44,13 +58,13 @@
 <p>Studies from <a href="https://www.amazon.com/Figure-Drawing-Invention-Michael-Hampton/dp/0615272819/ref=sr_1_1?ie=UTF8&amp;qid=1494476930&amp;sr=8-1&amp;keywords=figure+drawing+design+and+invention" target="_blank" rel="external">Figure Drawing Design &amp; Invention</a>. I was also using some linework tips from an excellent video by <a href="https://www.youtube.com/watch?v=x0zl5NnEAyU" target="_blank" rel="external">Scott<br>Robertson</a>. It boils down to utilizing <a href="https://en.wikipedia.org/wiki/Aerial_perspective" target="_blank" rel="external">Aerial Perspective</a> &amp; “T” overlaps.</p>
 ]]></content:encoded>
       
-      <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_1/#disqus_thread</comments>
+      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_1/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Challenge Day 2 - Rigorous Study</title>
-      <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</link>
-      <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/</guid>
+      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</link>
+      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</guid>
       <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
       <description>
       
@@ -62,31 +76,13 @@
 <p><strong>Quote from the end of the video:</strong><br><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit.”</em> -Aristotle</p>
 ]]></content:encoded>
       
-      <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Challenge Day 4 - Sculpting in Blender</title>
-      <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</link>
-      <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/</guid>
-      <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
-      <description>
-      
-        &lt;h2 id=&quot;Blender-Sculpting&quot;&gt;&lt;a href=&quot;#Blender-Sculpting&quot; class=&quot;headerlink&quot; title=&quot;Blender Sculpting&quot;&gt;&lt;/a&gt;Blender Sculpting&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
-      
-      </description>
-      
-      <content:encoded><![CDATA[<h2 id="Blender-Sculpting"><a href="#Blender-Sculpting" class="headerlink" title="Blender Sculpting"></a>Blender Sculpting</h2><p><img src="/images/blender/sculpt.png" alt="Sculpting in Blender"></p>
-<p>I’ve started learning blender again in order to finish a video for one of my<br>design classes. While using it I had the idea that sculpting<br>would be a fantastic way to learn anatomy. Here is the progress so far on<br>a sculpt I plan on finishing of Stuart Murdoch. More updates to come!</p>
-]]></content:encoded>
-      
-      <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_4/#disqus_thread</comments>
+      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Challenge Day 3 - Color Planes of The Face</title>
-      <link>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</link>
-      <guid>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/</guid>
+      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</link>
+      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</guid>
       <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
       <description>
       
@@ -103,7 +99,25 @@
 <p>This general shape is described as the “Hue Boomerang”. This video reminded me of a post on James Gurney’s Blog, a post titled <a href="http://gurneyjourney.blogspot.com/2008/05/color-zones-of-face.html" target="_blank" rel="external">The Color Zones of The Face</a>. </p>
 ]]></content:encoded>
       
-      <comments>http://endingthealphabet.xyz/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Challenge Day 4 - Sculpting in Blender</title>
+      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_4/</link>
+      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_4/</guid>
+      <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;Blender-Sculpting&quot;&gt;&lt;a href=&quot;#Blender-Sculpting&quot; class=&quot;headerlink&quot; title=&quot;Blender Sculpting&quot;&gt;&lt;/a&gt;Blender Sculpting&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="Blender-Sculpting"><a href="#Blender-Sculpting" class="headerlink" title="Blender Sculpting"></a>Blender Sculpting</h2><p><img src="/images/blender/sculpt.png" alt="Sculpting in Blender"></p>
+<p>I’ve started learning blender again in order to finish a video for one of my<br>design classes. While using it I had the idea that sculpting<br>would be a fantastic way to learn anatomy. Here is the progress so far on<br>a sculpt I plan on finishing of Stuart Murdoch. More updates to come!</p>
+]]></content:encoded>
+      
+      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_4/#disqus_thread</comments>
     </item>
     
   </channel>
