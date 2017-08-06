@@ -8,11 +8,25 @@
         <atom:link href="/categories/August-Challenge/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Sun, 06 Aug 2017 04:35:27 GMT</pubDate>
+        <pubDate>Sun, 06 Aug 2017 23:12:05 GMT</pubDate>
         <generator>http://hexo.io/</generator>
         
         <item>
-            <title>transforms</title>
+            <title>Examining Coordinate Spaces</title>
+            <link>pcvonz.github.io/2017/08/06/math-primer-chapter-1/</link>
+            <guid>pcvonz.github.io/2017/08/06/math-primer-chapter-1/</guid>
+            <pubDate>Sun, 06 Aug 2017 18:42:35 GMT</pubDate>
+            <description>
+                
+                &lt;h2 id=&quot;2D-Space&quot;&gt;&lt;a href=&quot;#2D-Space&quot; class=&quot;headerlink&quot; title=&quot;2D Space&quot;&gt;&lt;/a&gt;2D Space&lt;/h2&gt;&lt;p&gt;2D Space is very simple and a lot of it you’ll
+                
+            </description>
+            
+            <comments>pcvonz.github.io/2017/08/06/math-primer-chapter-1/#disqus_thread</comments>
+        </item>
+        
+        <item>
+            <title>Matrix &amp; Vector Math</title>
             <link>pcvonz.github.io/2017/08/05/transforms/</link>
             <guid>pcvonz.github.io/2017/08/05/transforms/</guid>
             <pubDate>Sat, 05 Aug 2017 19:28:11 GMT</pubDate>
