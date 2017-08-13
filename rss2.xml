@@ -8,8 +8,34 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 06 Aug 2017 23:12:05 GMT</pubDate>
+    <pubDate>Sun, 13 Aug 2017 01:00:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Dot Product &amp; Cross Product</title>
+      <link>pcvonz.github.io/2017/08/07/Dot-Product-Cross-Product/</link>
+      <guid>pcvonz.github.io/2017/08/07/Dot-Product-Cross-Product/</guid>
+      <pubDate>Tue, 08 Aug 2017 02:40:29 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;Dot-Product&quot;&gt;&lt;a href=&quot;#Dot-Product&quot; class=&quot;headerlink&quot; title=&quot;Dot Product&quot;&gt;&lt;/a&gt;Dot Product&lt;/h2&gt;&lt;p&gt;The dot product can be described u
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="Dot-Product"><a href="#Dot-Product" class="headerlink" title="Dot Product"></a>Dot Product</h2><p>The dot product can be described using linear algebra like so:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">[a1   [b1</div><div class="line"> a2  . b2  = a1*b1 + a2*b2 + a3*b3</div><div class="line"> a3]   b3]</div></pre></td></tr></table></figure>
+<h2 id="Geometric-Interpretation"><a href="#Geometric-Interpretation" class="headerlink" title="Geometric Interpretation"></a>Geometric Interpretation</h2><p><img src="/images/math_primer_chapter_2/dot.png" alt="Dot Product"></p>
+<p>The dot product can be thought of as a projection onto another point. Or, the<br>“signed length of the projection of <code>a</code> onto <code>b</code>. The image above portrays the<br>result of the dot product as an arrow, but this is not true. However, if we<br>multiply the unit vector of <code>a</code> by the result of the dot product, we would get<br>a vector of the magnitude b in the direction of a.</p>
+<p>Another interesting property of the dot product is the relationship it has to<br><code>cos</code>. </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">The dot prodcut of vectors a and b is equal to the cosine of angle</div><div class="line">between the vectors, multiplied by the length of the vecotrs.</div><div class="line"></div><div class="line">a.dot(b) = abs(a) * abs(b) * cos(theta)</div></pre></td></tr></table></figure>
+<h2 id="The-Cross-Product"><a href="#The-Cross-Product" class="headerlink" title="The Cross Product"></a>The Cross Product</h2><p>The cross product can be described using linear algebra like so:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">[x1  [x2    [y1*z2 - z1*y2</div><div class="line"> y1 x y2  =  z1*x2 - x1*z2</div><div class="line"> z1]  z2]    x1*y2 - y1*x2]</div></pre></td></tr></table></figure>
+<h2 id="Geometric-Interpretation-1"><a href="#Geometric-Interpretation-1" class="headerlink" title="Geometric Interpretation"></a>Geometric Interpretation</h2><p><img src="/images/math_primer_chapter_2/cross.png" alt="Cross Product"></p>
+<p>The length of AxB is is the product of the magnitudes of a and b and the sine of the angle between a and b.</p>
+]]></content:encoded>
+      
+      <comments>pcvonz.github.io/2017/08/07/Dot-Product-Cross-Product/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Examining Coordinate Spaces</title>
@@ -144,24 +170,6 @@
     </item>
     
     <item>
-      <title>Challenge Day 2 - Rigorous Study</title>
-      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</link>
-      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</guid>
-      <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;&lt;a href=&quot;https://youtu.be/INHeI6Lwtes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scott Robertson’s&lt;/a&gt; video on improving draftsmanship &amp;amp; propor
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p><a href="https://youtu.be/INHeI6Lwtes" target="_blank" rel="external">Scott Robertson’s</a> video on improving draftsmanship &amp; proportional sensitivity surprised me. I didn’t think it would involve something like typography! I’ve been taking graphic design classes for two years now and the trend today (at least in my program) is that designers don’t <em>really</em> draw anymore. They may dabble but the projects Robertson talks about in this video are a far cry away from our actual assignments. We are completely absorbed in process, research, and taste. When a designer in my program needs an illustration or a photo, they more often than not just find one online. This video may have convinced me to dabble in typography again. </p>
-<p><strong>Quote from the end of the video:</strong><br><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit.”</em> -Aristotle</p>
-]]></content:encoded>
-      
-      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
-    </item>
-    
-    <item>
       <title>Challenge Day 3 - Color Planes of The Face</title>
       <link>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</link>
       <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_3/</guid>
@@ -182,6 +190,24 @@
 ]]></content:encoded>
       
       <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_3/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Challenge Day 2 - Rigorous Study</title>
+      <link>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</link>
+      <guid>pcvonz.github.io/2017/05/30/2017_may_challenge_2/</guid>
+      <pubDate>Wed, 31 May 2017 05:03:21 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;a href=&quot;https://youtu.be/INHeI6Lwtes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scott Robertson’s&lt;/a&gt; video on improving draftsmanship &amp;amp; propor
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p><a href="https://youtu.be/INHeI6Lwtes" target="_blank" rel="external">Scott Robertson’s</a> video on improving draftsmanship &amp; proportional sensitivity surprised me. I didn’t think it would involve something like typography! I’ve been taking graphic design classes for two years now and the trend today (at least in my program) is that designers don’t <em>really</em> draw anymore. They may dabble but the projects Robertson talks about in this video are a far cry away from our actual assignments. We are completely absorbed in process, research, and taste. When a designer in my program needs an illustration or a photo, they more often than not just find one online. This video may have convinced me to dabble in typography again. </p>
+<p><strong>Quote from the end of the video:</strong><br><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit.”</em> -Aristotle</p>
+]]></content:encoded>
+      
+      <comments>pcvonz.github.io/2017/05/30/2017_may_challenge_2/#disqus_thread</comments>
     </item>
     
     <item>
